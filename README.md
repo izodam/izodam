@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=izodam)](https://github.com/izodam/github-readme-activity-graph)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=izodam)](https://git.io/streak-stats)
 <!--
 **izodam/izodam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
