@@ -3,10 +3,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=izodam)](https://git.io/streak-stats)
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=juyun7908)](https://solved.ac/juyun7908)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyun7908)](https://solved.ac/juyun7908/)
+
+![izodam's GitHub stats](https://github-readme-stats.vercel.app/api?username=izodam&show_icons=true&theme=transparent)
 
 
 <!--
