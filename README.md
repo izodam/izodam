@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=izodam)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=izodam&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyun7908)](https://solved.ac/juyun7908/)
 
