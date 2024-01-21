@@ -3,6 +3,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=izodam)](https://git.io/streak-stats)
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=juyun7908)](https://solved.ac/juyun7908)
+
 <!--
 **izodam/izodam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
