@@ -5,6 +5,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyun7908)](https://solved.ac/juyun7908/)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=izodam)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **izodam/izodam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
