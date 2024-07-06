@@ -1,8 +1,4 @@
-<h1 align="center">👋 안녕하세요, 저는 주연입니다!</h1>
-
-<p align="center">
-  프론트엔드 개발자를 준비하고 있으며, 멋지고 기능적인 웹 애플리케이션을 만드는 데 열정을 가지고 있습니다.
-</p>
+<h1 align="center">👋 Hi, I'm izodam!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -17,9 +13,6 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
-<h2 align="center">🌟 소개</h2>
-<p align="center">현재 프론트엔드 개발 기술을 배우고 있으며, 실력을 키우고 있습니다. 목표는 멋진 사용자 경험을 제공하는 능숙한 개발자가 되는 것입니다. 웹 개발, 코딩 챌린지, 기술 전반에 대해 언제든지 질문해 주세요!</p>
-
 <h2 align="center">🌐 나와 연결하세요</h2>
 <p align="center">
   <a href="https://github.com/juyun7908" target="_blank">
@@ -33,6 +26,7 @@
 <h2 align="center">📊 GitHub 통계</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juyun7908&show_icons=true&theme=radical" alt="Juyun's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juyun7908&theme=radical" alt="Juyun's GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyun7908&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
@@ -41,6 +35,15 @@
   <a href="https://solved.ac/juyun7908" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyun7908" alt="Solved.ac 프로필" />
   </a>
+</p>
+
+<h2 align="center">📈 활동 그래프</h2>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=juyun7908&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/juyun7908/juyun7908/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
