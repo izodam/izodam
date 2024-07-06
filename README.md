@@ -13,15 +13,6 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
-<h2 align="center">🌐 나와 연결하세요</h2>
-<p align="center">
-  <a href="https://github.com/juyun7908" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://solved.ac/juyun7908" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyun7908" alt="Solved.ac 프로필" />
-  </a>
-</p>
 
 <h2 align="center">📊 GitHub 통계</h2>
 <p align="center">
@@ -39,13 +30,10 @@
 
 <h2 align="center">📈 활동 그래프</h2>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=juyun7908&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=izodam&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/juyun7908/juyun7908/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/izodam/izodam/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<p align="center">
-  편하게 연락 주세요! 😊
-</p>
