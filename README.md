@@ -1,47 +1,43 @@
-<h1 align="center">👋 Hi, I'm izodam!</h1>
+# Hi there, I'm Izodam! 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="200"/>
-</p>
+![Welcome Banner](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-<h2 align="center">🛠️ 기술 스택</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>
 
-<h2 align="center">📊 GitHub 통계</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izodam&show_icons=true&theme=radical" alt="Izodam's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izodam&theme=radical" alt="Izodam's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izodam&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+- 💻 **Languages and Frameworks:**
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+  ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
+  ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 
-<h2 align="center">🏆 Solved.ac 통계</h2>
-<p align="center">
-  <a href="https://solved.ac/juyun7908" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyun7908" alt="Solved.ac 프로필" />
-  </a>
-</p>
+## My Stats
 
-<h2 align="center">📈 활동 그래프</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izodam&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+![Izodam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=izodam&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/izodam/izodam/main/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+## My Solved.ac Profile
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="200"/>
-</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyun7908)](https://solved.ac/juyun7908)
 
+## Projects
+
+- **Project 1: Awesome Frontend Project**
+  ![Project GIF](https://media.giphy.com/media/3o7aD4vJ0Gkl1swlny/giphy.gif)
+  - Description: A beautiful and responsive web application built with React and TypeScript.
+
+- **Project 2: Creative UI/UX Design**
+  ![Project GIF](https://media.giphy.com/media/l3vR9OQhN5xE89RAI/giphy.gif)
+  - Description: An innovative project showcasing creative UI/UX designs using Vue and JavaScript.
+
+## Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 🐦 [Twitter](https://twitter.com/your-profile)
+- 📧 Email: your-email@example.com
+
+![Contact GIF](https://media.giphy.com/media/5n7mMZwAGOkNfAlWDc/giphy.gif)
+
+Thanks for visiting my profile! ![Heart GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
