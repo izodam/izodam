@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi, I'm izodam!</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -13,12 +17,21 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
+<h2 align="center">🌐 나와 연결하세요</h2>
+<p align="center">
+  <a href="https://github.com/izodam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://solved.ac/juyun7908" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyun7908" alt="Solved.ac 프로필" />
+  </a>
+</p>
 
 <h2 align="center">📊 GitHub 통계</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juyun7908&show_icons=true&theme=radical" alt="Juyun's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juyun7908&theme=radical" alt="Juyun's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyun7908&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=izodam&show_icons=true&theme=radical" alt="Izodam's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izodam&theme=radical" alt="Izodam's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izodam&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <h2 align="center">🏆 Solved.ac 통계</h2>
@@ -35,5 +48,9 @@
 
 <p align="center">
   <img src="https://github.com/izodam/izodam/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jRfGciTytgK1ly2aXS/giphy.gif" width="400" height="200"/>
 </p>
 
