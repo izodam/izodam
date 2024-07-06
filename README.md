@@ -1,43 +1,42 @@
-# Hi there, I'm Izodam! 👋
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:B0E0E6&height=300&section=header&text=Hi,%20I'm%20Izodam!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62"/>
+</p>
 
-![Welcome Banner](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-- 💻 **Languages and Frameworks:**
-  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-  ![React](https://img.shields.io/badge/-React-000?&logo=React)
-  ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
-  ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
 
-## My Stats
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="300" />
+</p>
 
-![Izodam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=izodam&show_icons=true&theme=radical)
+## 📈 My Stats
 
-## My Solved.ac Profile
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=izodam&show_icons=true&theme=radical" alt="Izodam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izodam&layout=compact&theme=radical" alt="Izodam's Most Used Languages" />
+</p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyun7908)](https://solved.ac/juyun7908)
+## 🎯 My Solved.ac Profile
 
-## Projects
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyun7908" alt="Solved.ac Profile" />
+  <img src="http://mazandi.herokuapp.com/api?handle=juyun7908&theme=warm" alt="Solved.ac Streak" />
+</p>
 
-- **Project 1: Awesome Frontend Project**
-  ![Project GIF](https://media.giphy.com/media/3o7aD4vJ0Gkl1swlny/giphy.gif)
-  - Description: A beautiful and responsive web application built with React and TypeScript.
-
-- **Project 2: Creative UI/UX Design**
-  ![Project GIF](https://media.giphy.com/media/l3vR9OQhN5xE89RAI/giphy.gif)
-  - Description: An innovative project showcasing creative UI/UX designs using Vue and JavaScript.
-
-## Get in Touch
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 🐦 [Twitter](https://twitter.com/your-profile)
-- 📧 Email: your-email@example.com
-
-![Contact GIF](https://media.giphy.com/media/5n7mMZwAGOkNfAlWDc/giphy.gif)
-
-Thanks for visiting my profile! ![Heart GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:B0E0E6&height=200&section=footer"/>
+</p>
