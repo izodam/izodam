@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
@@ -34,13 +33,17 @@
 
 <h2 align="center">📈 활동 그래프</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=izodam&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izodam&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/izodam/izodam/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/izodam/izodam/main/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/jRfGciTytgK1ly2aXS/giphy.gif" width="400" height="200"/>
+</p>
+
+<p align="center">
+  편하게 연락 주세요! 😊
 </p>
