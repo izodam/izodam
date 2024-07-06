@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm izodam!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="200"/>
 </p>
 
 <h2 align="center">🛠️ 기술 스택</h2>
@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
@@ -41,9 +42,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jRfGciTytgK1ly2aXS/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="200"/>
 </p>
 
-<p align="center">
-  편하게 연락 주세요! 😊
-</p>
