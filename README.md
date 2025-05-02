@@ -34,7 +34,6 @@
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyun7908" alt="Solved.ac Profile" />
-  <img src="http://mazandi.herokuapp.com/api?handle=juyun7908&theme=warm" alt="Solved.ac Streak" />
 </p>
 
 <p align='center'>
